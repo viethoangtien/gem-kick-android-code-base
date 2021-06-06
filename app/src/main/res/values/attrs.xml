@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseRecyclerView">
+        <attr name="brv_padding" format="dimension" />
+        <attr name="brv_background" format="integer|reference" />
+        <attr name="brv_padding_start" format="dimension" />
+        <attr name="brv_padding_end" format="dimension" />
+        <attr name="brv_padding_top" format="dimension" />
+        <attr name="brv_padding_bottom" format="dimension" />
+        <attr name="brv_enable_refresh" format="boolean" />
+        <attr name="brv_enable_show_empty" format="boolean" />
+        <attr name="brv_text_empty" format="string" />
+        <attr name="brv_clip_padding" format="boolean" />
+    </declare-styleable>
+
+</resources>

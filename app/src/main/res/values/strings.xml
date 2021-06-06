@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name" translatable="false">Kick School</string>
+
+    <string name="are_you_sure_cancel">Are you sure you want to cancel?</string>
+    <string name="are_you_sure_quit">Are you sure you want to quit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_internet_connection_error">No connection. Please check your network connection and try again</string>
+    <string name="no_contents_found">No contents found</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_or_email">Username/Email</string>
+    <string name="password">Password</string>
+
+</resources>

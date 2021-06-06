@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="content_max_width">600dp</dimen>
+    <dimen name="dialog_max_width">500dp</dimen>
+
+    <!--Margin-->
+    <dimen name="margin_1_dp">1dp</dimen>
+    <dimen name="margin_2_dp">2dp</dimen>
+    <dimen name="margin_3_dp">3dp</dimen>
+    <dimen name="margin_4_dp">4dp</dimen>
+    <dimen name="margin_6_dp">6dp</dimen>
+    <dimen name="margin_8_dp">8dp</dimen>
+    <dimen name="margin_10_dp">10dp</dimen>
+    <dimen name="margin_12_dp">12dp</dimen>
+    <dimen name="margin_16_dp">16dp</dimen>
+    <dimen name="margin_18_dp">18dp</dimen>
+    <dimen name="margin_20_dp">20dp</dimen>
+    <dimen name="margin_24_dp">24dp</dimen>
+    <dimen name="margin_26_dp">26dp</dimen>
+    <dimen name="margin_32_dp">32dp</dimen>
+    <dimen name="margin_40_dp">40dp</dimen>
+
+    <!--Padding-->
+    <dimen name="content_padding_2_dp">2dp</dimen>
+    <dimen name="content_padding_4_dp">4dp</dimen>
+    <dimen name="content_padding_6_dp">6dp</dimen>
+    <dimen name="content_padding_7_dp">7dp</dimen>
+    <dimen name="content_padding_8_dp">8dp</dimen>
+    <dimen name="content_padding_10_dp">10dp</dimen>
+    <dimen name="content_padding_12_dp">12dp</dimen>
+    <dimen name="content_padding_14_dp">14dp</dimen>
+    <dimen name="content_padding_16_dp">16dp</dimen>
+    <dimen name="content_padding_20_dp">20dp</dimen>
+    <dimen name="content_padding_24_dp">24dp</dimen>
+    <dimen name="content_padding_32_dp">32dp</dimen>
+    <dimen name="content_padding_40_dp">40dp</dimen>
+
+    <!--Radius-->
+    <dimen name="radius_2_dp">2dp</dimen>
+    <dimen name="radius_4_dp">4dp</dimen>
+    <dimen name="radius_6_dp">6dp</dimen>
+    <dimen name="radius_8_dp">8dp</dimen>
+    <dimen name="radius_10_dp">10dp</dimen>
+    <dimen name="radius_12_dp">12dp</dimen>
+    <dimen name="radius_16_dp">16dp</dimen>
+    <dimen name="radius_20_dp">20dp</dimen>
+    <dimen name="radius_25_dp">25dp</dimen>
+    <dimen name="radius_30_dp">30dp</dimen>
+
+    <!--Text Size-->
+    <dimen name="textsize_18_sp">18sp</dimen>
+    <dimen name="textsize_17_sp">17sp</dimen>
+    <dimen name="textsize_16_sp">16sp</dimen>
+    <dimen name="textsize_15_sp">15sp</dimen>
+    <dimen name="textsize_14_sp">14sp</dimen>
+    <dimen name="textsize_13_sp">13sp</dimen>
+    <dimen name="textsize_12_sp">12sp</dimen>
+    <dimen name="textsize_11_sp">11sp</dimen>
+    <dimen name="textsize_20_sp">20sp</dimen>
+    <dimen name="textsize_19_sp">19sp</dimen>
+    <dimen name="textsize_23_sp">23sp</dimen>
+    <dimen name="textsize_24_sp">24sp</dimen>
+    <dimen name="textsize_25_sp">25sp</dimen>
+    <dimen name="textsize_26_sp">26sp</dimen>
+    <dimen name="textsize_28_sp">28sp</dimen>
+    <dimen name="textsize_30_sp">30sp</dimen>
+    <dimen name="textsize_32_sp">32sp</dimen>
+    <dimen name="textsize_33_sp">33sp</dimen>
+    <dimen name="textsize_35_sp">35sp</dimen>
+    <dimen name="textsize_32_5_sp">32.5sp</dimen>
+    <dimen name="textsize_40_sp">40sp</dimen>
+    <dimen name="textsize_42_sp">42sp</dimen>
+    <dimen name="textsize_22_sp">22sp</dimen>
+    <dimen name="textsize_22_5_sp">22.5sp</dimen>
+
+    //TextSize
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_header_small">18sp</dimen>
+    <dimen name="text_size_header_normal">20sp</dimen>
+    <dimen name="text_size_header_large">22sp</dimen>
+
+    //SignUp
+    <dimen name="sign_up_margin">35dp</dimen>
+    <dimen name="sign_up_margin_large">28dp</dimen>
+    <dimen name="sign_up_margin_normal">25dp</dimen>
+    <dimen name="sign_up_edit_text_padding_top_bottom">12dp</dimen>
+    <dimen name="sign_up_edit_text_padding">20dp</dimen>
+    <dimen name="sign_up_margin_top_small">15dp</dimen>
+    <dimen name="margin_character">5dp</dimen>
+    <dimen name="line_spacing">3dp</dimen>
+    <dimen name="size_button_back">72dp</dimen>
+
+    <dimen name="activity_main_parent_avatar_size">50dp</dimen>
+    <dimen name="activity_main_parent_tab_item_padding">10dp</dimen>
+    <dimen name="fragment_parent_tablayout_height">30dp</dimen>
+    <dimen name="fragment_parent_tablayout_tab_radius">20dp</dimen>
+
+    <dimen name="size_button_logout">90dp</dimen>
+    <dimen name="margin_end_button_logout">10dp</dimen>
+    <dimen name="activity_main_parent_tab_item_margin_right">15dp</dimen>
+    <dimen name="item_account_avatar_size">110dp</dimen>
+    <dimen name="item_account_avatar_time_management_size">130dp</dimen>
+    <dimen name="edittext_height">40dp</dimen>
+    <dimen name="edittext_height_kid">50dp</dimen>
+    <dimen name="dropdown_arrow_size">15dp</dimen>
+    <dimen name="sign_in_margin_top_small">10dp</dimen>
+    <dimen name="sign_in_margin_left_right">30dp</dimen>
+    <dimen name="forgot_password_padding">15dp</dimen>
+    <dimen name="sign_up_margin_top_large">40dp</dimen>
+    <dimen name="sign_up_margin_top_normal">20dp</dimen>
+    <dimen name="fragment_parent_settings_my_account_title_width">110dp</dimen>
+    <dimen name="fragment_parent_settings_payment_title_width">130dp</dimen>
+    <dimen name="fragment_my_account_avatar_size">70dp</dimen>
+    <dimen name="default_button_width">110dp</dimen>
+    <dimen name="form_margin">14dp</dimen>
+    <dimen name="tab_margin_top">12dp</dimen>
+    <dimen name="size_width_button_video">130dp</dimen>
+    <dimen name="size_height_button_video">40dp</dimen>
+    <dimen name="size_button_play_video">50dp</dimen>
+    <dimen name="padding_button_video">20dp</dimen>
+    <dimen name="video_control_view_margin_left_right">8dp</dimen>
+    <dimen name="video_control_text_size">12sp</dimen>
+    <dimen name="video_control_view_padding">10dp</dimen>
+    <dimen name="padding_button_top_bottom_common">10dp</dimen>
+    <dimen name="padding_button_left_right_common">15dp</dimen>
+    <dimen name="padding_button_left_right_small">10dp</dimen>
+    <dimen name="margin_button_left_right_large">30dp</dimen>
+    <dimen name="button_dropdown_topic_corner_radius">25dp</dimen>
+    <dimen name="margin_help_center">35dp</dimen>
+    <dimen name="slider_dot_size">12dp</dimen>
+    <dimen name="parent_player_controller_item_size">40dp</dimen>
+    <dimen name="parent_player_controller_item_margin">20dp</dimen>
+    <dimen name="parent_player_controller_item_padding">10dp</dimen>
+    <dimen name="form_edittext_padding">8dp</dimen>
+    <dimen name="fragment_purchase_detail_package_box_padding">10dp</dimen>
+
+    <dimen name="activate_code_padding">50dp</dimen>
+    <dimen name="activate_code_padding_normal">25dp</dimen>
+    <dimen name="activate_code_margin_bottom">15dp</dimen>
+    <dimen name="activate_code_margin_top_small">10dp</dimen>
+    <dimen name="activate_code_padding_left_right_small">5dp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="icon_size_small">30</dimen>
+    <dimen name="sign_width_pencil">20dp</dimen>
+    <dimen name="size_bg_height_pencil">95dp</dimen>
+    <dimen name="size_height_pencil">80dp</dimen>
+    <dimen name="size_height_padding_pencil">22dp</dimen>
+    <dimen name="size_icon_home">55dp</dimen>
+    <dimen name="size_button_back_coloring">80dp</dimen>
+
+    <dimen name="width_flag_dictionary">50dp</dimen>
+    <dimen name="height_flag_dictionary">32dp</dimen>
+    <dimen name="size_view_description_width">25dp</dimen>
+    <dimen name="size_view_description_height">17dp</dimen>
+    <dimen name="text_size_day_lock_device">12sp</dimen>
+
+    //Abc
+    <dimen name="abc_text_view_width">25dp</dimen>
+    <dimen name="abc_text_view_height">25dp</dimen>
+    <dimen name="abc_text_bound_width_max">25dp</dimen>
+    <dimen name="abc_text_bound_width_min">22dp</dimen>
+    <dimen name="fragment_gift_item_height">45dp</dimen>
+    <dimen name="fragment_gift_item_margin_end">25dp</dimen>
+    <dimen name="fragment_gift_jewel_icon_height">48dp</dimen>
+    <dimen name="fragment_gift_jewel_icon_width">50dp</dimen>
+    <dimen name="rating_star_size">83dp</dimen>
+    <dimen name="item_gift_cart_size">60dp</dimen>
+    <dimen name="button_min_width">130dp</dimen>
+
+    //Affiliate
+    <dimen name="margin_heading_affiliate">25dp</dimen>
+
+    //Shadowing rich
+    <dimen name="rich_avatar_size">73dp</dimen>
+
+    <!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    -->
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+
+    <!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    -->
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="score_box_width">120dp</dimen>
+    <dimen name="flashcard_game_button_width">150dp</dimen>
+    <dimen name="flashcard_game_button_height">50dp</dimen>
+
+    <dimen name="flash_card_true_false">75dp</dimen>
+    <dimen name="video_control_view_padding_left_right">12dp</dimen>
+    <dimen name="flash_card_volume_width">39dp</dimen>
+    <dimen name="flash_card_volume_height">28dp</dimen>
+    <dimen name="flash_card_point_margin">10dp</dimen>
+    <dimen name="photo_hunt_content_image_margin">4dp</dimen>
+    <dimen name="photo_hunt_item_corner">6dp</dimen>
+    <dimen name="flash_card_stroke_common">4dp</dimen>
+    <dimen name="home_button_width">35dp</dimen>
+    <dimen name="home_button_height">20dp</dimen>
+    <dimen name="media_corner_button">3dp</dimen>
+    <dimen name="size_button_close">36dp</dimen>
+    <dimen name="height_seek_bar">4dp</dimen>
+    <dimen name="size_button_next_course">44dp</dimen>
+    <dimen name="size_icon_result">30dp</dimen>
+    <dimen name="size_question_mark">30dp</dimen>
+    <dimen name="size_button_controller_course">60dp</dimen>
+    <dimen name="size_button_sound">60dp</dimen>
+    <dimen name="activity_shadowing_topic_icon_volume_size">60dp</dimen>
+    <dimen name="shadowing_padding_button">10dp</dimen>
+    <dimen name="speak_course_size">22dp</dimen>
+    <dimen name="course_size_avatar">50dp</dimen>
+    <dimen name="course_progress_percent">26dp</dimen>
+    <dimen name="course_progress_width">16dp</dimen>
+
+</resources>

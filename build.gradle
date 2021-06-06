@@ -1,0 +1,77 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext.kotlin_version = '1.3.61'
+    repositories {
+        google()
+        jcenter()
+
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.4'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.google.gms:google-services:4.3.3'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.4.1'
+        classpath 'com.google.firebase:firebase-appdistribution-gradle:2.0.1'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+ext {
+    // Sdk and tools
+    minSdkVersion = 23
+    targetSdkVersion = 29
+    compileSdkVersion = 29
+    buildToolsVersion = '28.0.3'
+    constraintLayoutVersion = '1.1.3'
+    recyclerViewVersion = '1.1.0'
+    cardViewVersion = '1.0.0'
+    paging_version = '3.0.0-alpha03'
+
+    // App dependencies
+    supportLibraryVersion = '1.1.0'
+    materialVersion = '1.2.1'
+    vectorDrawableVersion = '1.1.0'
+    animatedVectorDrawableVersion = '1.1.0'
+    gsonVersion = '2.8.2'
+    calligraphyVersion = '2.3.0'
+    roomDatabaseVersion = '2.2.5'
+    fbLoginVersion = '5.15.3'
+    dagger2Version = '2.16'
+    rxjava2Version = '2.1.9'
+    rxandroidVersion = '2.1.1'
+    retrofitVersion = '2.7.1'
+    okhttp3Version = "3.10.0"
+    timberVersion = '4.7.1'
+    lifecycleVersion = '2.2.0'
+    glideVersion = '4.11.0'
+    exoplayerVersion = '2.12.1'
+    castExoVersion = '2.12.0'
+    grpcOkhttpVersion = '1.29.0'
+    googleCloudSpeechVersion = '1.23.0'
+    googleCloudTextToSpeechVersion = '1.0.2'
+    googleCloudTranslateVersion = '1.95.0'
+    diffMatchVersion = '1.2'
+    coroutinesVersion = '1.3.7'
+    pagingVersion = '2.1.2'
+    noPermissionVersion = '1.1.2'
+
+    //Play Core Version
+    playCoreVersion = '1.9.0'
+
+    // Test dependencies
+    junitVersion = '4.12'
+    espressoVersion = '3.1.0'
+    mockitoVersion = '2.15.0'
+}

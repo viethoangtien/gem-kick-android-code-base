@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477935985953",
+    "firebase_url": "https://kickenglish-kids-dev.firebaseio.com",
+    "project_id": "kickenglish-kids-dev",
+    "storage_bucket": "kickenglish-kids-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477935985953:android:183c366f3cfb258ffe8a60",
+        "android_client_info": {
+          "package_name": "vn.kickkids.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477935985953-mehruebctja949acuk6324d9npfk04rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4lal-0b-kzcana_E7tlrCHMrSW_hE2cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477935985953-mehruebctja949acuk6324d9npfk04rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477935985953-iq1dvqf416m3b7m2is1ojdufefc02t14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.kickenglish.kids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

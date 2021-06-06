@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F06500</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_confirm_dialog_stroke">#75000000</color>
+    <color name="color_confirm_dialog_button">#2589BC</color>
+    <color name="transparent">#00000000</color>
+</resources>
